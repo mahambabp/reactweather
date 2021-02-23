@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`First snapshot test 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="app"
+  >
+    <main>
+      <div
+        className="search-box"
+      >
+        <input
+          className="search-bar"
+          onChange={[Function]}
+          onKeyPress={[Function]}
+          placeholder="City..."
+          type="text"
+          value=""
+        />
+      </div>
+      
+    </main>
+  </div>
+</div>
+`;
