@@ -26,19 +26,8 @@ Launches the test runner in the interactive watch mode.<br />
 
 https://dry-eyrie-15864.herokuapp.com/
 
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
 ### Deployment
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+Follow steps :https://blog.heroku.com/deploying-react-with-zero-configuration
 
-### `yarn build` fails to minify
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
